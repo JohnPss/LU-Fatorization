@@ -1,4 +1,4 @@
-# Fatoração LU - Sistemas Lineares
+# Fatoração LU - Sistemas Lineares  
 
 Este projeto implementa o método de Fatoração LU para resolução de sistemas lineares, com uma interface gráfica interativa desenvolvida em Streamlit. O foco principal é a resolução de um circuito elétrico de 4 malhas, mas também permite resolver sistemas genéricos.
 
